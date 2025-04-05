@@ -414,6 +414,7 @@ const fileIcons = new Map<string, IconData>([                                   
   ["fsx",       { icon: "", hl_group: "file_fsx",        color: palette.blue        }], // nf-dev-fsharp
   ["gif",       { icon: "", hl_group: "file_gif",        color: palette.aqua        }], // nf-fa-file_image_o
   ["go",        { icon: "", hl_group: "file_go",         color: palette.beige       }], // nf-dev-go
+  ["gradle",    { icon: "", hl_group: "file_gradle",     color: palette.blue        }], // nf-seti-gradle
   ["gz",        { icon: "", hl_group: "file_gz",         color: palette.default     }], // nf-oct-file_zip
   ["h",         { icon: "", hl_group: "file_h",          color: palette.default     }], // nf-fa-h_square
   ["hpp",       { icon: "", hl_group: "file_hpp",        color: palette.default     }], // nf-fa-h_square
