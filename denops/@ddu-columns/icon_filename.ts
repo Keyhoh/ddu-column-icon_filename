@@ -436,7 +436,7 @@ const fileIcons = new Map<string, IconData>([                                   
   ["mov",       { icon: "", hl_group: "file_mov",        color: palette.orange      }], // nf-fa-file_movie_o
   ["mp3",       { icon: "", hl_group: "file_mp3",        color: palette.salmon      }], // nf-fa-file_audio_o
   ["mp4",       { icon: "", hl_group: "file_mp4",        color: palette.orange      }], // nf-fa-file_movie_o
-  ["nix",       { icon: "", hl_group: "file_nix",        color: palette.blue        }], // nf-dev-nixos
+  ["nix",       { icon: "󱄅", hl_group: "file_nix",        color: palette.blue        }], // nf-md-nixos
   ["otf",       { icon: "", hl_group: "file_otf",        color: palette.red         }], // nf-fa-font
   ["pdf",       { icon: "", hl_group: "file_pdf",        color: palette.darkOrange  }], // nf-fa-file_pdf_o
   ["php",       { icon: "", hl_group: "file_php",        color: palette.purple      }], // nf-dev-php
